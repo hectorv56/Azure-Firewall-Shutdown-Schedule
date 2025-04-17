@@ -1,6 +1,6 @@
-# Azure Firewall Shutdown Schedule
+# Azure Firewall Automatic Shutdown Schedule
 
-Azure Firewall can be expensive ($1,317.65/month minimum for a standard firewall) if you are only using it for lab or testing purposes. You can shut down (to stop billing) and start back again an Azure firewall using PowerShell. You can also create a schedule to shut down Azure Firewall.
+Azure Firewall can be expensive ($1,317.65/month minimum for a standard firewall) if you are only using it for lab or testing purposes. You can shut down (to stop billing) and start an Azure firewall back up again using PowerShell. You can also create a schedule to shut down Azure Firewall automatically.
 
 ## Schedule Azure Firewall Automatic Shutdown Using the Portal
 
